@@ -44,4 +44,6 @@ added a new field called rating and added the migration for rating and updated t
 build the solution and ran the app and it works perfectly we can change and edit the rating now.
 
 12:10
-adding validation to the code.
+added validation rules to the Movie model.
+ran the app and look at the validation error for error messsages.
+examined the Details and Delete methods of the asp.net core app.
