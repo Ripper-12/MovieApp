@@ -23,6 +23,12 @@ searched and installed all the required package, added the package to the projec
 after adding all that i tried once again and it worked like a charm.
 23:25
 After migrating and updating the databse to match the model.
-It Works.
-
-
+It Worked.
+Populating the database.
+2024-02-05 14:28
+worked with controller methods and views
+Looked at the post request methods for empty field Message.
+added search to the ASP.NET core movie app. changed parameter to id and back to searchString.
+added form to the index of the movie app for search function.
+15:30
+added search by genre to the index view
