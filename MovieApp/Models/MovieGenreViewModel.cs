@@ -2,7 +2,7 @@
 using MovieApp.Models;
 using System.Collections.Generic;
 
-namespace MvcMovie.Models;
+namespace MovieApp.Models;
 
 public class MovieGenreViewModel
 {

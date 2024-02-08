@@ -26,7 +26,7 @@ public static class SeedData
                     Title = "When Harry Met Sally",
                     ReleaseDate = DateTime.Parse("1989-2-12"),
                     Genre = "Romantic Comedy",
-                    Rating = "R",
+                    Rating = "PG",
                     Price = 7.99M
                 },
                 new Movie
@@ -34,7 +34,7 @@ public static class SeedData
                     Title = "Ghostbusters ",
                     ReleaseDate = DateTime.Parse("1984-3-13"),
                     Genre = "Comedy",
-                    Rating = "R",
+                    Rating = "RR",
                     Price = 8.99M
                 },
                 new Movie
